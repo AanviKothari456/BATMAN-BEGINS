@@ -19,11 +19,11 @@ var ground;
 
 
 function preload() {
-    boy_img = loadImage("../images/WalkingFrame/walking_1.png")
-    thunder_img1 = loadImage("../images/thunderbolt/1.png");
-    thunder_img2 = loadImage("../images/thunderbolt/2.png");
-    thunder_img3 = loadImage("../images/thunderbolt/3.png");
-    thunder_img4 = loadImage("../images/thunderbolt/4.png");
+    boy_img = loadImage("WalkingFrame/walking_1.png")
+    thunder_img1 = loadImage("thunderbolt/1.png");
+    thunder_img2 = loadImage("thunderbolt/2.png");
+    thunder_img3 = loadImage("thunderbolt/3.png");
+    thunder_img4 = loadImage("thunderbolt/4.png");
     
 }
 
